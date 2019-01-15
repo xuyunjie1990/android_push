@@ -1,0 +1,11 @@
+[com.youguu.android.mq.listener.MncgBatchListener]
+maxThread=10
+[com.youguu.android.mq.listener.MncgBroadcastListener]
+maxThread=10
+[com.youguu.android.mq.listener.YglcBatchListener]
+maxThread=10
+[com.youguu.android.mq.listener.YglcBroadcastListener]
+maxThread=10
+
+maxNum=100
+maxTime=30000
